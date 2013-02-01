@@ -1,0 +1,24 @@
+{
+  "name": "facebook-demo",
+  "version": "0.1.0",
+  "description": "facebook demo class exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brashierb/facebook-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Brenda Brashier",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9c1a67d2a1eb741632eb452d2794f458a891c167",
+  "dependencies": {
+    "connect": "~2.7.2",
+    "connect_router": "~1.8.7"
+  }
+}
